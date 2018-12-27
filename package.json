@@ -1,7 +1,5 @@
 {
-  "name": "solid-profile-viewer",
-  "version": "0.1.0",
-  "private": true,
+  "homepage": "https://solid.github.io/profile-viewer-react/",
   "dependencies": {
     "@solid/react": "1.6.0",
     "react": "^16.8.6",
